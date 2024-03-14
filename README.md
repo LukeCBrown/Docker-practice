@@ -1,2 +1,2 @@
-# Docker-practice-
+# Docker-practice
 Me practicing with docker.
